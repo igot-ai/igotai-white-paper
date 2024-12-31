@@ -1,4 +1,4 @@
-# Executive Summary (Visionary Perspective)
+# I got AI
 
 ## 1. Introduction
 
