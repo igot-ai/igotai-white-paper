@@ -7,10 +7,10 @@ export default {
   "title": "iGOT AI",
   "tagline": "Decentralized AI Agent Network",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://docs.igot.ai",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "iGOT AI",
+  "projectName": "igot network",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -81,11 +81,11 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Whitepaper",
           "items": [
             {
               "label": "Whitepaper",
-              "to": "/docs/intro"
+              "to": "/docs/executive-summary"
             }
           ]
         },
@@ -98,12 +98,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/igot-ai"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 iGOT AI Corporation. Built with Docusaurus."
     },
     "prism": {
       "theme": {
