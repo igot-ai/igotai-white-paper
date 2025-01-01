@@ -1,0 +1,24 @@
+{
+  "id": "Tokenonomics/7.3-incentives",
+  "title": "Token Incentives",
+  "description": "Incentive Structure",
+  "source": "@site/docs/7-Tokenonomics/7.3-incentives.md",
+  "sourceDirName": "7-Tokenonomics",
+  "slug": "/Tokenonomics/7.3-incentives",
+  "permalink": "/docs/Tokenonomics/7.3-incentives",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/7-Tokenonomics/7.3-incentives.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Governance",
+    "permalink": "/docs/Tokenonomics/7.2-governance"
+  },
+  "next": {
+    "title": "Development Roadmap",
+    "permalink": "/docs/development-roadmap"
+  }
+}

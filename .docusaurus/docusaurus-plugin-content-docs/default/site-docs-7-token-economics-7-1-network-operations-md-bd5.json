@@ -1,0 +1,24 @@
+{
+  "id": "token-economics/7.1-network-operations",
+  "title": "Network Operations",
+  "description": "Token Utility",
+  "source": "@site/docs/7-token-economics/7.1-network-operations.md",
+  "sourceDirName": "7-token-economics",
+  "slug": "/token-economics/7.1-network-operations",
+  "permalink": "/docs/token-economics/7.1-network-operations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/7-token-economics/7.1-network-operations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User Incentives",
+    "permalink": "/docs/incentive-structure/6.3-users"
+  },
+  "next": {
+    "title": "Governance",
+    "permalink": "/docs/token-economics/7.2-governance"
+  }
+}

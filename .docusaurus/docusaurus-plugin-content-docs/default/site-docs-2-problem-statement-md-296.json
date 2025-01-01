@@ -1,0 +1,25 @@
+{
+  "id": "problem-statement",
+  "title": "Problem Statement",
+  "description": "Current Market Challenges",
+  "source": "@site/docs/2-problem-statement.md",
+  "sourceDirName": ".",
+  "slug": "/problem-statement",
+  "permalink": "/docs/problem-statement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2-problem-statement.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Whitepaper",
+    "permalink": "/docs/executive-summary"
+  },
+  "next": {
+    "title": "Edge Computing Network",
+    "permalink": "/docs/Solution/3.1-edge-computing-network"
+  }
+}

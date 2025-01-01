@@ -1,0 +1,24 @@
+{
+  "id": "solution/3.3-subscription-runtime",
+  "title": "Subscription-Based Runtime",
+  "description": "System Architecture",
+  "source": "@site/docs/3-solution/3.3-subscription-runtime.md",
+  "sourceDirName": "3-solution",
+  "slug": "/solution/3.3-subscription-runtime",
+  "permalink": "/docs/solution/3.3-subscription-runtime",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3-solution/3.3-subscription-runtime.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AI Agent Builder Platform",
+    "permalink": "/docs/solution/3.2-agent-builder-platform"
+  },
+  "next": {
+    "title": "AI Agent Marketplace",
+    "permalink": "/docs/solution/3.4-marketplace"
+  }
+}

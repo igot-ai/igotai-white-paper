@@ -1,0 +1,24 @@
+{
+  "id": "Ecosystem/5.1-developer-community",
+  "title": "Developer Community",
+  "description": "Community Structure",
+  "source": "@site/docs/5-Ecosystem/5.1-developer-community.md",
+  "sourceDirName": "5-Ecosystem",
+  "slug": "/Ecosystem/5.1-developer-community",
+  "permalink": "/docs/Ecosystem/5.1-developer-community",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5-Ecosystem/5.1-developer-community.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agent Protocol",
+    "permalink": "/docs/Architecture/4.2-agent-protocol"
+  },
+  "next": {
+    "title": "Partnerships",
+    "permalink": "/docs/Ecosystem/5.2-partnerships"
+  }
+}

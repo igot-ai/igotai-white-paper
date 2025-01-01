@@ -1,0 +1,24 @@
+{
+  "id": "community-ecosystem/5.2-partnerships",
+  "title": "Partnerships",
+  "description": "Strategic Alliances",
+  "source": "@site/docs/5-community-ecosystem/5.2-partnerships.md",
+  "sourceDirName": "5-community-ecosystem",
+  "slug": "/community-ecosystem/5.2-partnerships",
+  "permalink": "/docs/community-ecosystem/5.2-partnerships",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5-community-ecosystem/5.2-partnerships.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer Community",
+    "permalink": "/docs/community-ecosystem/5.1-developer-community"
+  },
+  "next": {
+    "title": "Resource Provider Incentives",
+    "permalink": "/docs/incentive-structure/6.1-resource-providers"
+  }
+}

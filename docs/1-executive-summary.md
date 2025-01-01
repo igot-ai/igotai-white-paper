@@ -1,4 +1,4 @@
-# I got AI
+# Whitepaper
 
 ## 1. Introduction
 
