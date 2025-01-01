@@ -80,7 +80,7 @@ const config: Config = {
           position: 'left',
           label: 'Whitepaper',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: 'https://docs.igot.ai/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://docs.igot.ai/blog',
           label: 'Blog',
@@ -105,7 +105,7 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              to: 'https://docs.igot.ai/blog',
             },
             {
               label: 'GitHub',

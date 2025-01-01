@@ -1,148 +1,105 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/docs-9f2": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-8f6": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs-d05": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/Architecture/4.1-edge-computing-protocol-795": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-4-1-edge-computing-protocol-5-bc-4e4"
+    "__comp": "17896441",
+    "content": "5bc9bc72"
   },
   "/docs/Architecture/4.2-agent-protocol-c9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-4-2-agent-protocol-597-776"
+    "__comp": "17896441",
+    "content": "597079ba"
   },
   "/docs/development-roadmap-a7e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-development-roadmap-35-d-b76"
+    "__comp": "17896441",
+    "content": "35d531be"
   },
   "/docs/Ecosystem/5.1-developer-community-acc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ecosystem-5-1-developer-communityf-93-6ac"
+    "__comp": "17896441",
+    "content": "f93a4495"
   },
   "/docs/Ecosystem/5.2-partnerships-ab8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ecosystem-5-2-partnerships-109-a03"
+    "__comp": "17896441",
+    "content": "109a7e8c"
   },
   "/docs/executive-summary-cef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-executive-summary-0-e-6-6d7"
+    "__comp": "17896441",
+    "content": "0e6f39da"
   },
   "/docs/incentive-structure/6.1-resource-providers-24d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-incentive-structure-6-1-resource-providersb-93-471"
+    "__comp": "17896441",
+    "content": "b9360073"
   },
   "/docs/incentive-structure/6.2-agent-creators-88a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-incentive-structure-6-2-agent-creatorsc-72-33b"
+    "__comp": "17896441",
+    "content": "c72f5555"
   },
   "/docs/incentive-structure/6.3-users-2ae": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-incentive-structure-6-3-users-258-9fb"
+    "__comp": "17896441",
+    "content": "258f81a7"
   },
   "/docs/investment-592": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-investment-33-b-9f7"
+    "__comp": "17896441",
+    "content": "33b634ea"
   },
   "/docs/problem-statement-a63": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-problem-statement-296-165"
+    "__comp": "17896441",
+    "content": "2962ba25"
   },
   "/docs/Solution/3.1-edge-computing-network-a1d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solution-3-1-edge-computing-networkf-1-d-47c"
+    "__comp": "17896441",
+    "content": "f1d507c0"
   },
   "/docs/Solution/3.2-agent-builder-platform-754": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solution-3-2-agent-builder-platform-1-a-6-afa"
+    "__comp": "17896441",
+    "content": "1a642387"
   },
   "/docs/Solution/3.3-subscription-runtime-63b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solution-3-3-subscription-runtime-96-c-724"
+    "__comp": "17896441",
+    "content": "96c70052"
   },
   "/docs/Solution/3.4-marketplace-f5b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-solution-3-4-marketplace-24-c-33f"
+    "__comp": "17896441",
+    "content": "24cd1bf1"
   },
   "/docs/team-8ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-team-38-e-83d"
+    "__comp": "17896441",
+    "content": "38e06f93"
   },
   "/docs/Tokenonomics/7.1-network-operations-364": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tokenonomics-7-1-network-operations-970-4fc"
+    "__comp": "17896441",
+    "content": "970eb87d"
   },
   "/docs/Tokenonomics/7.2-governance-41b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tokenonomics-7-2-governancea-71-c32"
+    "__comp": "17896441",
+    "content": "a7173cfa"
   },
   "/docs/Tokenonomics/7.3-incentives-28b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tokenonomics-7-3-incentives-4-b-9-230"
+    "__comp": "17896441",
+    "content": "4b9e0bcb"
   },
   "/-e5f": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

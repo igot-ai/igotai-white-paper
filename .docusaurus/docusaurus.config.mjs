@@ -65,7 +65,7 @@ export default {
           "label": "Whitepaper"
         },
         {
-          "to": "/blog",
+          "to": "https://docs.igot.ai/blog",
           "label": "Blog",
           "position": "left"
         },
@@ -94,7 +94,7 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "to": "/blog"
+              "to": "https://docs.igot.ai/blog"
             },
             {
               "label": "GitHub",
