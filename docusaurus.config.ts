@@ -68,10 +68,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'iGOT AI',
+      title: '',
       logo: {
         alt: 'iGOT AI',
-        src: 'img/logo.svg',
+        src: 'https://ah.igot.app/logo-light.svg',
       },
       items: [
         {
